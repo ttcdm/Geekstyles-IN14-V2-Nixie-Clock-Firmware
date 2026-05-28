@@ -1,0 +1,13 @@
+# SDCC build output
+SDCC
+
+# Cosmic & IAR build output
+Release
+Debug
+
+# untested or unfinished projects (starting with 'x_')
+x_*
+/examples/aaa_playground
+/examples/_clean_all.sh
+examples/IWDG_watchdog/.vscode/settings.json
+.vscode/settings.json

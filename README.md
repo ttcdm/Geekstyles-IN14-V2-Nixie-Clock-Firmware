@@ -3,7 +3,8 @@
 
 **Clone the repository with submodules:**
 ```bash
-git clone --recursive https://github.com/siliverst/IN12v3clock.git
+git clone --recursive https://github.com/ttcdm/Geekstyles-IN14-V2-Nixie-Clock-Firmware.git
+cd Geekstyles-IN14-V2-Nixie-Clock-Firmware
 git submodule update --init --recursive
 ```
 

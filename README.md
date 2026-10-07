@@ -1,5 +1,5 @@
 # Geekstyles v2 Nixie Clock Firmware
-![Nixie Clock Front](image0.jpeg)
+
 ![Nixie Clock Side/Back](image1.jpeg)
 
 ## Getting Started
